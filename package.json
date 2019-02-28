@@ -1,0 +1,12 @@
+{
+  "name": "graphql-backend",
+  "version": "1.0.0",
+  "description": "GraphQL - Backend",
+  "main": "index.js",
+  "repository": "https://github.com/daekun0920/GraphQL-Backend",
+  "author": "Daekun Han",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.17.4"
+  }
+}
